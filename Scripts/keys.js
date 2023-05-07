@@ -34,7 +34,7 @@ var keys = {
 				keys.accelerate = status;
 				break;
 			case 40://DOWN ARROW
-				keys.down.a = status;
+				keys.a = status;
 				break;
 			case 39://RIGHT ARROW
 				keys.right = status;
